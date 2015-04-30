@@ -10,3 +10,4 @@ mod 'puppetlabs/reboot', :latest
 mod 'puppetlabs/acl', :latest
 mod 'puppetlabs/docker_platform', :latest
 mod 'Aethylred/shibboleth', :latest
+mod 'CraigWatson1987/vmwaretools', :latest
