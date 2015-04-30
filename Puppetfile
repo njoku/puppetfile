@@ -9,3 +9,4 @@ mod 'puppetlabs/postgresql', :latest
 mod 'puppetlabs/reboot', :latest
 mod 'puppetlabs/acl', :latest
 mod 'puppetlabs/docker_platform', :latest
+mod 'Aethylred/shibboleth', :latest
