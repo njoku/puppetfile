@@ -1,0 +1,13 @@
+mod 'puppetlabs/apache', :latest
+mod 'puppetlabs/stdlib', :latest
+mod 'puppetlabs/concat', :latest
+mod 'puppetlabs/firewall', :latest
+mod 'puppetlabs/mysql', :latest
+mod 'puppetlabs/inifile', :latest
+mod 'puppetlabs/ntp', :latest
+mod 'puppetlabs/postgresql', :latest
+mod 'puppetlabs/reboot', :latest
+mod 'puppetlabs/acl', :latest
+mod 'puppetlabs/docker_platform', :latest
+mod 'Aethylred/shibboleth', :latest
+mod 'CraigWatson1987/vmwaretools', :latest
